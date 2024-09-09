@@ -1,0 +1,15 @@
+C:\workspace\.net-course\DataTypeVC\bin\Debug\net8.0\DataTypeVC.exe
+C:\workspace\.net-course\DataTypeVC\bin\Debug\net8.0\DataTypeVC.deps.json
+C:\workspace\.net-course\DataTypeVC\bin\Debug\net8.0\DataTypeVC.runtimeconfig.json
+C:\workspace\.net-course\DataTypeVC\bin\Debug\net8.0\DataTypeVC.dll
+C:\workspace\.net-course\DataTypeVC\bin\Debug\net8.0\DataTypeVC.pdb
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.AssemblyInfoInputs.cache
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.AssemblyInfo.cs
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.csproj.CoreCompileInputs.cache
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.sourcelink.json
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.dll
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\refint\DataTypeVC.dll
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.pdb
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\DataTypeVC.genruntimeconfig.cache
+C:\workspace\.net-course\DataTypeVC\obj\Debug\net8.0\ref\DataTypeVC.dll
