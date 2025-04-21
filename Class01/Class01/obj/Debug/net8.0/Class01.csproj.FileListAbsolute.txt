@@ -1,0 +1,15 @@
+C:\workspace\.net-course\Class01\Class01\bin\Debug\net8.0\Class01.exe
+C:\workspace\.net-course\Class01\Class01\bin\Debug\net8.0\Class01.deps.json
+C:\workspace\.net-course\Class01\Class01\bin\Debug\net8.0\Class01.runtimeconfig.json
+C:\workspace\.net-course\Class01\Class01\bin\Debug\net8.0\Class01.dll
+C:\workspace\.net-course\Class01\Class01\bin\Debug\net8.0\Class01.pdb
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.AssemblyInfoInputs.cache
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.AssemblyInfo.cs
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.csproj.CoreCompileInputs.cache
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.sourcelink.json
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.dll
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\refint\Class01.dll
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.pdb
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\Class01.genruntimeconfig.cache
+C:\workspace\.net-course\Class01\Class01\obj\Debug\net8.0\ref\Class01.dll
