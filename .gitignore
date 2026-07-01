@@ -133,8 +133,6 @@ $RECYCLE.BIN/
 _NCrunch*
 
 
-
-
 # Build outputs
 **/bin/
 **/obj/
@@ -156,3 +154,5 @@ project.nuget.cache
 apphost.exe
 
 
+# Visual Studio
+.vs/
